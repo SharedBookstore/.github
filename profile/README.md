@@ -6,6 +6,8 @@
 
 <div align='center'>
 
+# [공유책방 바로가기](https://gongubookstore.netlify.app/)
+
 [<img src="https://user-images.githubusercontent.com/90181028/191492233-fa5fb50a-3425-493e-92a6-1ef93e233bb0.png" width=50px>](https://www.notion.so/f72f6a2c221947858e9168591269b61a)
 
 
