@@ -5,7 +5,7 @@
 
 <div align='center'>
 
-# [공유책: Alpha Ver 바로가기](https://sharedbookstore-temp.netlify.app/)
+# [공유책방: Alpha Ver 바로가기](https://sharedbookstore-temp.netlify.app/)
 
 
 </div>
