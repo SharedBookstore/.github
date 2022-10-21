@@ -5,7 +5,7 @@
 
 <div align='center'>
 
-# [공유책방 바로가기](https://gongubookstore.netlify.app/)
+# [공유책방 바로가기](https://sharedbookstore.netlify.app/)
 
 
 </div>
