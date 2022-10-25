@@ -11,6 +11,23 @@
 </div>
 
 
+# ✨ 공지
+### 20221025: organization 이름 변경 by jiheon788
++ 이유: `sharedbookstore` 가 문법상 맞디 않다는 지적
++ 한글이름 `공유책방`을 사용하므로 그대로  `gong-you-bookstore` 사용하려함
++ 각자 아래 커멘드 복사하여 원격주소 재지정만 해주세요.
++ 실행 후 `git remote -v` 로 변경 확인 필수!
+```
+git remote set-url origin https://github.com/gong-you-bookstore/fe.git
+```
+```
+git remote set-url origin https://github.com/gong-you-bookstore/be.git
+```
+```
+git remote set-url origin https://github.com/gong-you-bookstore/rs.git
+```
+
+
 # 📝 Commit Message Guidelines
 
 ### 방법 1 : 한줄 작성 (only 제목)
