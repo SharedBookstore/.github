@@ -5,8 +5,7 @@
 
 <div align='center'>
 
-# [공유책방: Alpha Ver 바로가기](https://gongyoubookstore-alpha.netlify.app/)
-
+### [공유책방: Alpha Ver 바로가기](https://gongyoubookstore-alpha.netlify.app/)
 
 </div>
 
