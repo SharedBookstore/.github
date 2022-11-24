@@ -9,11 +9,6 @@
 
 </div>
 
-# ⚙ System Structure
-![공유책방-시스템구조도](https://user-images.githubusercontent.com/90181028/203847536-937f6e16-a4e1-446a-8cf3-dfbf4f209623.png)
-
-
-
 # ⛓ Organization Map
 ```bash
 gong-you-bookstore # root
@@ -28,6 +23,14 @@ gong-you-bookstore # root
 │  
 └── data-preprocessing # 공유책방 - Learning Data Storage & Pre-processing
 ```
+
+
+# ⚙ System Structure
+![공유책방-시스템구조도](https://user-images.githubusercontent.com/90181028/203847536-937f6e16-a4e1-446a-8cf3-dfbf4f209623.png)
+
+
+
+
 
 # ✨ 공지
 #### 20221025: organization 이름 변경
