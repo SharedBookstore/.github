@@ -10,8 +10,25 @@
 </div>
 
 
+
+
+# ⛓ Organization Structure
+```bash
+gong-you-bookstore # root
+│   
+├── fe # 공유책방 - client
+│  
+├── be # 공유책방 - server
+│   
+├── rs-server # 공유책방 - Recommemdation System Server
+│  
+├── rs # 공유책방 - Recommendation System Modeling
+│  
+└── data-preprocessing # 공유책방 - Learning Data Storage & Pre-processing
+```
+
 # ✨ 공지
-### 20221025: organization 이름 변경 by jiheon788
+#### 20221025: organization 이름 변경
 + 이유: `sharedbookstore` 가 문법상 맞지 않다는 지적
 + 한글이름 `공유책방`을 사용하므로 그대로  `gong-you-bookstore` 사용하려함
 + 각자 아래 커멘드 복사하여 원격주소 재지정만 해주세요.
