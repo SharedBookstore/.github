@@ -9,10 +9,12 @@
 
 </div>
 
+# ⚙ System Structure
+![공유책방-시스템구조도](https://user-images.githubusercontent.com/90181028/203847536-937f6e16-a4e1-446a-8cf3-dfbf4f209623.png)
 
 
 
-# ⛓ Organization Structure
+# ⛓ Organization Map
 ```bash
 gong-you-bookstore # root
 │   
