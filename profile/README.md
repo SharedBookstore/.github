@@ -1,5 +1,10 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/90181028/205358825-401a9df2-64df-4b0a-a548-cf73906b2dbd.png" width="150px" alt="img"/>
+<br>
+<br>
+
+> 공유책방은 더는 활용되지 않은 채 집에 잠들어 있는 책을 깨우고,<br> 토큰을 통한 나눔을 통하여 책이라는 재화의 효율성을 극대화하는 프로젝트입니다.
+<br>
 
 ### [공유책방 바로가기](https://gong-you-bookstore.netlify.app/)
   
