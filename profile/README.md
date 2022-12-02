@@ -1,16 +1,12 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/90181028/205289563-65263e51-9e93-4106-b446-ac4b59f277d2.png" width="150px" alt="img"/>
+  
+### [공유책방 바로가기](https://gong-you-bookstore.netlify.app/)
+  
 </div>
 
 # 📚 공유책방
-</br>
-</br>
 
-<div align='center'>
-
-### [공유책방 바로가기](https://gong-you-bookstore.netlify.app/)
-
-</div>
 
 # 📑 REPOSITORY INDEX
 - [Client](https://github.com/gong-you-bookstore/fe)
@@ -19,26 +15,20 @@
 - [Recommendation System Modeling](https://github.com/gong-you-bookstore/rs)
 - [Learning Data Storage & Pre-processing](https://github.com/gong-you-bookstore/data-preprocessing)
 
+# ✨ KEY FUNTIONS
+- [x] **책 등록**: 카카오 API를 사용하여 내가 가진 책을 검색 및
+위치 기반 등록
+- [x] **바코드 스캔**: QuggaJS를 사용한 ISBN스캔으로 책 등록
+의 간편화
+- [x] **책방**: 장르별 책방과 검색기능을 통한 간편한 책 찾기
+- [x] **메시지**: 유저간 거래 및 나눔을 위한 메시지 기능을 구현
+- [x] **토큰**: 상대와 거래를 하며 토큰을 교환하는 기능 구현
+- [x] **추천시스템**: 책 상세보기에서 유사한 책들을 추천
+- [x] **갤러리**: 내가 등록한 책과, 사용자 맞춤 추천 책들을 볼
+수 있는 갤러리 페이지
 
 # ⚙ System Structure
 ![공유책방-시스템구조도](https://user-images.githubusercontent.com/90181028/203847536-937f6e16-a4e1-446a-8cf3-dfbf4f209623.png)
-
-# ✨ 공지
-#### 20221025: organization 이름 변경
-+ 이유: `sharedbookstore` 가 문법상 맞지 않다는 지적
-+ 한글이름 `공유책방`을 사용하므로 그대로  `gong-you-bookstore` 사용하려함
-+ 각자 아래 커멘드 복사하여 원격주소 재지정만 해주세요.
-+ 실행 후 `git remote -v` 로 변경 확인 필수!
-```
-git remote set-url origin https://github.com/gong-you-bookstore/fe.git
-```
-```
-git remote set-url origin https://github.com/gong-you-bookstore/be.git
-```
-```
-git remote set-url origin https://github.com/gong-you-bookstore/rs.git
-```
-
 
 # 📝 Commit Message Guidelines
 
