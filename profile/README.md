@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/90181028/205357117-46e04a62-21e6-494a-a4ee-8fb56da1e4f1.png" width="200px" alt="img"/>
-  
+<img src="https://user-images.githubusercontent.com/90181028/205358825-401a9df2-64df-4b0a-a548-cf73906b2dbd.png" width="150px" alt="img"/>
+
 ### [공유책방 바로가기](https://gong-you-bookstore.netlify.app/)
   
 </div>
