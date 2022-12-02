@@ -9,7 +9,7 @@
 - 도서 공유 플랫폼
 - 2022.10 ~ 2022.12
 
-# 👩🏻‍💻 MEMBER
+# 👩🏻‍💻 TEAM
 |Github|Part|
 |------|---|
 |@jiheon788|FE / DESIGN|
