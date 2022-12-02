@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://user-images.githubusercontent.com/90181028/205289563-65263e51-9e93-4106-b446-ac4b59f277d2.png" width="150px" alt="img"/>
+</div>
 
 # 📚 공유책방
 </br>
@@ -9,28 +12,16 @@
 
 </div>
 
-# ⛓ Organization Map
-```bash
-gong-you-bookstore # root
-│   
-├── fe # 공유책방 - client
-│  
-├── be # 공유책방 - server
-│   
-├── rs-server # 공유책방 - Recommemdation System Server
-│  
-├── rs # 공유책방 - Recommendation System Modeling
-│  
-└── data-preprocessing # 공유책방 - Learning Data Storage & Pre-processing
-```
+# 📑 REPOSITORY INDEX
+- [Client](https://github.com/gong-you-bookstore/fe)
+- [Server](https://github.com/gong-you-bookstore/be)
+- [Recommemdation System Server](https://github.com/gong-you-bookstore/rs-server)
+- [Recommendation System Modeling](https://github.com/gong-you-bookstore/rs)
+- [Learning Data Storage & Pre-processing](https://github.com/gong-you-bookstore/data-preprocessing)
 
 
 # ⚙ System Structure
 ![공유책방-시스템구조도](https://user-images.githubusercontent.com/90181028/203847536-937f6e16-a4e1-446a-8cf3-dfbf4f209623.png)
-
-
-
-
 
 # ✨ 공지
 #### 20221025: organization 이름 변경
