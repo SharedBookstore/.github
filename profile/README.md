@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/90181028/205289563-65263e51-9e93-4106-b446-ac4b59f277d2.png" width="150px" alt="img"/>
+<img src="https://user-images.githubusercontent.com/90181028/205356693-77dd8f87-5a46-499c-a645-83170064c878.png" width="150px" alt="img"/>
   
 ### [공유책방 바로가기](https://gong-you-bookstore.netlify.app/)
   
