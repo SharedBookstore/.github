@@ -1,11 +1,13 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/90181028/205356693-77dd8f87-5a46-499c-a645-83170064c878.png" width="150px" alt="img"/>
+<img src="https://user-images.githubusercontent.com/90181028/205357117-46e04a62-21e6-494a-a4ee-8fb56da1e4f1.png" width="200px" alt="img"/>
   
 ### [공유책방 바로가기](https://gong-you-bookstore.netlify.app/)
   
 </div>
 
 # 📚 공유책방
+
+
 - 도서 공유 플랫폼
 - 2022.10 ~ 2022.12
 
