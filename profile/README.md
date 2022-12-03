@@ -8,7 +8,7 @@
 <br>
 
 ### [공유책방 바로가기](https://gong-you-bookstore.netlify.app/)
-  
+
 </div>
 
 # 📚 공유책방
@@ -44,6 +44,16 @@
 
 # ⚙ SYSTEM STRUCTURE
 ![공유책방-시스템구조도](https://user-images.githubusercontent.com/90181028/203847536-937f6e16-a4e1-446a-8cf3-dfbf4f209623.png)
+
+# 👋🏻 THUMBNAIL
+
+<div>
+<img src="https://user-images.githubusercontent.com/90181028/205436710-0e0a6088-cc4a-44e4-a172-a84bbe523958.png" width="32%">
+<img src="https://user-images.githubusercontent.com/90181028/205436716-ee97efe3-ab95-4d9c-ac0e-66c8a1ba7163.png" width="32%">
+<img src="https://user-images.githubusercontent.com/90181028/205436740-c5785337-48aa-4b3b-939a-47d8604f17b8.png" width="32%">
+<img src="https://user-images.githubusercontent.com/90181028/205436741-8f14f271-fb48-47f1-8584-e43439e85d1a.png" width="32%">
+</div>
+
 
 # 📝 COMMIT MESSAGE GUIDELINE
 
